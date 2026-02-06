@@ -1,0 +1,6 @@
+watchdog
+pystray
+Pillow
+pywin32; sys_platform == 'win32'
+flask
+flask-cors
